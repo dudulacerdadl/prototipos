@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleção de País</title>
+</head>
+
+<body>
+    <h1>Checagem de Nascionalidade</h1>
+    <p>Digite o nome do seu país: <input type="text" name="txt" class="txt"></p>
+    <input type="button" value="Verificar" onclick="verificar()">
+    <div class="res">
+
+    </div>
+
+    <script>
+        function verificar() {
+            var txt = window.document.querySelector('.txt')
+            var res = document.querySelector('.res')
+            var país = txt.value
+            res.innerHTML = `<p>Você está vivendo em <strong>${país}</strong></p>`
+            if (país == 'Brasil') {
+                res.innerHTML += `<p>Você é <strong>BRASILEIRO!</strong>`
+            } else {
+                res.innerHTML += `<p>Você é <strong>ESTRANGEITO!</strong></p>`
+            }
+        }
+    </script>
+</body>
+
+</html>

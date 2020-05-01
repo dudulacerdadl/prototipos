@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cumprimentos</title>
+</head>
+
+<body>
+    <h1>Sistema de Saudações</h1>
+    <div class="res">
+
+    </div>
+
+    <script>
+        var agora = new Date()
+        var hrs = agora.getHours()
+        var res = document.querySelector('.res')
+        res.innerHTML = `<p>Agora são exatamente <strong>${hrs} horas</strong> agora!</p>`
+        if (hrs < 12) {
+            res.innerHTML += (`Bom Dia!`)
+        } else if (hrs <= 18) {
+            res.innerHTML += (`Boa Tarde!`)
+        } else if (hrs < 24) {
+            res.innerHTML += (`Boa Noite!`)
+        } else {
+            res.innerHTML += (`[ERRO] Digite um horário válido!`)
+        }
+    </script>
+</body>
+
+</html>
