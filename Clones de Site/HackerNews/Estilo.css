@@ -1,0 +1,126 @@
+#y {
+   margin-top: 2px;
+   margin-left: 2px;
+   margin-right: 2px;
+   margin-bottom: -3px;
+   padding-bottom: 0%;
+   border-width: 1px;
+   border-style: solid;
+   border-color: white; 
+}
+body {
+    font-family: Verdana;
+    font-size: 10pt;
+    line-height: 1.5;
+    margin-top: 0%;
+    margin-left: 8%;
+    margin-right: 8%;
+    background-color: white;
+}
+#corpo {
+    background-color: #ff6600;
+}
+#cabeçalho {
+    padding: 2px;
+    border: 70px;
+    text-align: left;
+    font-weight: none;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    font-weight: none;
+    color: black;
+}
+#menu a:visited {
+    color: gray;
+}
+#backpg a:visited {
+    color: gray;
+}
+table {
+    border-style: none;
+    border-collapse: collapse;
+    padding: 0px;
+
+}
+#login {
+    text-align: right;
+}
+#espaço {
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding: -10px;
+}
+#menu, #itens, #backpg {
+    background-color: #f6f6ef;
+    width: 100%;
+    padding: 0%;
+}
+#corpo {
+    margin-top: 10px;
+}
+.rank {
+    color: gray;
+    width: 1px;
+}
+.upvote {
+    color: green;
+    width: 1px;
+}
+.sitezinho {
+    color: gray;
+    font-size: 8pt;
+}
+.sitezinhodentro {
+    color: gray;
+    font-size: 8pt;
+}
+.sitezinhodentro:hover {
+    text-decoration: underline;
+}
+.linhazinha {
+    color: gray;
+    font-size: 7pt;
+}
+.linhazinhadentro {
+    color: gray;
+    font-size: 7pt;
+}
+.linhazinhadentro:hover {
+    text-decoration: underline;
+}
+#noticia {
+    width: 100%;
+}
+#esp {
+    height: 10px;
+}
+#linhanja {
+    background-color: #ff6600;
+    width: 100%;
+}
+#backpg {
+    text-align: center;
+}
+.bk {
+    text-align: center;
+    width: 100%;
+    font-size: 8pt;
+}
+#tabela {
+    background-color: #f6f6ef;
+    padding: 100%;
+}
+#menu {
+    height: 100%;
+}
+#noticia {
+    line-height: 1;
+}
+.rank {
+    text-align: right;
+}
+.pesquisa {
+    color: grey;
+}
