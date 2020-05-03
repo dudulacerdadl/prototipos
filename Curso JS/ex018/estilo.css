@@ -12,6 +12,14 @@ div {
   padding: 10px;
 }
 
+.corpo {
+  text-align: center;
+}
+
+.flista {
+  width: 150px;
+}
+
 section {
   background: white;
   border-radius: 10px;
