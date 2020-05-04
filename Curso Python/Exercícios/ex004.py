@@ -1,0 +1,10 @@
+valor = input('Digite algo: ')
+
+print('O objeto {} que acahou de ser digitado pertence ao tipo {}'.format(valor, type(valor)))
+print('Sobre o objeto {} apresentar apenas espaços: {}'.format(valor , valor.isspace()))
+print('Sobre o objeto {} ser algo numérico: {}'.format(valor, valor.isnumeric()))
+print('Sobre o objeto {} ser algo alfabético: {}'.format(valor, valor.isalpha()))
+print('Sobre o objeto {} ser algo alfanumérico: {}'.format(valor, valor.isalnum()))
+print('Sobre o objeto {} estar apresentado somente com letras maiúsculas: {}'.format(valor, valor.isupper()))
+print('Sobre o objeto {} estar apresentado somente com letras maiúsculas: {}'.format(valor, valor.islower()))
+print('Sobre o objeto {} estar capitalizado: {}'.format(valor, valor.istitle()))
