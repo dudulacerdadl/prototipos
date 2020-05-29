@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Estilo/estilo.css">
+    <title>Exercício 02</title>
+</head>
+<body>
+    <div>
+        <form method="GET" action="ex002.php">
+            Nome: <input type="text" name="nome"/><br/>
+            Ano de Nascimento: <input type="number" name="ano"/><br/>
+            <fieldset><legend>Sexo</legend>
+                <input type="radio" name="sexo" id="masc" value="homem" checked/>
+                <label for="masc">Masculino</label><br/>
+                <input type="radio" name="sexo" id="fem" value="mulher"/>
+                <label for="fem">Feminino</label>
+            </fieldset><br/>
+            <input type="submit" value="Enviar">
+        </form>
+    </div>
+</body>
+</html>
