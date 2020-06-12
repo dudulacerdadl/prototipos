@@ -8,10 +8,23 @@
 <body>
 <h1>API</h1>
     <?php
-    print "Teste";
-    for($i = 1; $i <= 10; $i++){
-        print "<br/>Conta: " . $i;
+    $banco = "mysql:host=127.0.0.1;port=3306;dbname=agenda";
+    $usuario = "root";
+    $senha = "";
+    try {
+        $con = new PDO($banco, $usuario, $senha);
+        $sql = "select * from contatos";
+        $dados = $con -> query($sql);
+        foreach ($dados as $item => $valor){
+            echo "<pre>";
+            print_r($valor);
+            echo "</pre>";
+        }
+
+    } catch (PDOException $e) {
+        echo 'ERROR:' . $e -> getMessage();
     }
+
     ?>
 </body>
 </html>
