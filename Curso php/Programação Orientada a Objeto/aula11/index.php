@@ -22,7 +22,6 @@
         $p[4] = new Tecnico("Ana", 17, "Feminino", "Ciência da Computação");
 
         $p[2] -> pagarMensalidade();
-        $p[3] -> renovarBolsa();
         $p[3] -> pagarMensalidade();
 
         echo "<p><pre>";
