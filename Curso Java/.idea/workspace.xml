@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b87025c4-9a7f-4479-a9ff-3511c6301d24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula04/ex001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula09/ex005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula10/ex006.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula10/ex007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex008.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex009.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex010.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex010.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex011.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex011.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex013.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex013.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula13/ambiente.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula13/ambiente2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula15/ambiente.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula15/vertornatela.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/aula17/objeto01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/manha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/noite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/tarde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-adolescente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-adulto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-bebe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-crianca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-idoso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-adolescente.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-adulta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-bebe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-crianca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-idosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/modelo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/script.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dIBTfoxXOBIezga6Z1RkTDGqH1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="aula01.Main" />
+      <module name="Curso Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87025c4-9a7f-4479-a9ff-3511c6301d24" name="Default Changelist" comment="" />
+      <created>1592102735892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592102735892</updated>
+      <workItem from="1592102737300" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
