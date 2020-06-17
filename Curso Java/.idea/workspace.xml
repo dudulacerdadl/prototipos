@@ -1,75 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b87025c4-9a7f-4479-a9ff-3511c6301d24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula04/ex001.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex002.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex003.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula06/ex004.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula09/ex005.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula10/ex006.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula10/ex007.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex008.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex009.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex010.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula11/ex010.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex011.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex011.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex012.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex013.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula12/ex013.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula13/ambiente.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula13/ambiente2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula15/ambiente.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula15/vertornatela.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao02.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao03.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao04.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula16/funcao05.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/aula17/objeto01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/manha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/noite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex014/tarde.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-adolescente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-adulto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-bebe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-crianca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/garoto-idoso.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-adolescente.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-adulta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-bebe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-crianca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/menina-idosa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex015/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex016/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex017/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/ex018/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/estilo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/modelo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Curso JS/modelo-exercícios/script.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/HoraDoSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Teste.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Teste1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Teste1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/OlaMundoSwing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/PrimeiroProjeto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -81,12 +53,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HoraDoSistema">
+    <configuration name="HoraDoSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula04.HoraDoSistema" />
+      <module name="Curso Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="aula01.Main" />
+      <option name="MAIN_CLASS_NAME" value="aula04.PrimeiroProjeto" />
       <module name="Curso Java" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -95,6 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HoraDoSistema" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -107,10 +99,40 @@
       <option name="presentableId" value="Default" />
       <updated>1592102735892</updated>
       <workItem from="1592102737300" duration="625000" />
+      <workItem from="1592144082025" duration="3634000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592151890070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592151890070" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592151890069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592151890069" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592151890069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592151890069" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592151890069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592151890069" />
   </component>
 </project>
