@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b87025c4-9a7f-4479-a9ff-3511c6301d24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/HoraDoSistema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Teste.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Teste1.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula04/Teste1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula05/OlaMundoSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula04/PrimeiroProjeto.java" afterDir="false" />
-    </list>
+    <list default="true" id="b87025c4-9a7f-4479-a9ff-3511c6301d24" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ESSA BOSTA/ESSA BOSTA" />
   </component>
   <component name="RunManager" selected="Application.HoraDoSistema">
     <configuration name="HoraDoSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -100,6 +91,7 @@
       <updated>1592102735892</updated>
       <workItem from="1592102737300" duration="625000" />
       <workItem from="1592144082025" duration="3634000" />
+      <workItem from="1593010087465" duration="124000" />
     </task>
     <servers />
   </component>
@@ -116,8 +108,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1593010152767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593010152767" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592151890070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
